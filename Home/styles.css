@@ -1,0 +1,64 @@
+
+ @import url('http://fonts.cdnfonts.com/css/bukhari-script');
+
+ html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+    flex-wrap: wrap;
+}              
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+
+    background-color: black;
+    padding: 15px;
+   
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+a:hover {
+    color: salmon;
+}
+
+.titulo {
+    text-align: center;
+    font-family: 'Bukhari Script', sans-serif;
+    color: white;
+    background-color: black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+   
+}
+
+body {
+    background-image: url(./Foto\ Saludo.JPG);
+    background-size: cover;    
+    
+    
+}
+.seccion_1 img {
+ width: 100vw;  /*EL VW ES PARA QUE AGARRE EL 100% DE LA PANTALLA */
+ display: block;
+}
+
+.Encabezado {
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    background-color: #f4f4f4;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+

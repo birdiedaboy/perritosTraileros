@@ -1,0 +1,276 @@
+
+ @import url('http://fonts.cdnfonts.com/css/bukhari-script');
+
+ html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}              
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color:rgb(10, 10, 10)
+}
+
+ul {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+
+    background-color: black;
+    padding: 15px;
+   
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.titulo {
+    text-align: center;
+    font-family: 'Bukhari Script', sans-serif;
+    color: white;
+    background-color: black;
+    padding-bottom: 5px;
+    padding-top: 5px;
+   
+}
+
+a:hover {
+    color: salmon;
+}
+
+.titulo2 {
+    padding-top: 5px;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+    font-family: 'Bukhari Script', sans-serif;
+}
+
+
+
+.alex {
+    padding-top: 10px;
+    color: coral;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.rider1 p {
+ text-align: center;
+ font-weight: bolder;
+ color: white;
+ padding-left: 15px;
+}
+
+.rider1 img {
+ margin: auto;
+ display: block;
+ height: 500px;
+ border-radius: 50px;
+ padding: 10px;
+}
+
+.oliver {
+    padding-top: 10px;
+    color: coral;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.rider2 p {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-left: 15px;
+}
+
+.rider2 img {
+    margin: auto;
+    display: block;
+    height: 500px;
+    border-radius: 50px;
+    padding: 10px;
+   }
+
+.romina {
+    padding-top: 10px;
+    color: coral;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.rider3 p {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-left: 15px;
+}
+
+.rider3 img {
+    margin: auto;
+    display: block;
+    height: 500px;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.tachi {
+    padding-top: 10px;
+    color: coral;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.rider4 p {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-left: 15px;
+}
+
+.rider4 img {
+    margin: auto;
+    display: block;
+    height: 500px;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.pato {
+    padding-top: 10px;
+    color: coral;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.rider5 p {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-left: 15px;
+}
+
+.rider5 img {
+    margin: auto;
+    display: block;
+    height: 500px;
+    border-radius: 50px;
+    padding: 10px;
+    width: 750px;
+}
+
+.izaac {
+    padding-top: 10px;
+    color: coral;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.rider6 p {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-left: 15px;
+}
+
+.rider6 img {
+    margin: auto;
+    display: block;
+    height: 500px;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.morales {
+    padding-top: 10px;
+    color: coral;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.rider7 p {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-left: 15px;
+}
+
+.rider7 img {
+    margin: auto;
+    display: block;
+    height: 500px;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.jorge {
+    padding-top: 10px;
+    color: coral;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.rider8 p {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-left: 15px;
+}
+
+.rider8 img {
+    margin: auto;
+    display: block;
+    height: 500px;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.nando {
+    padding-top: 10px;
+    color: coral;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.rider9 p {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-left: 15px;
+}
+
+.rider9 img {
+    margin: auto;
+    display: block;
+    height: 500px;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.rodri {
+    padding-top: 10px;
+    color: coral;
+    padding-left: 10px;
+    text-align: center;
+}
+
+.rider10 p {
+    text-align: center;
+    font-weight: bolder;
+    color: white;
+    padding-left: 15px;
+}
+
+.rider10 img {
+    margin: auto;
+    display: block;
+    height: 500px;
+    border-radius: 50px;
+    padding: 10px;
+}
